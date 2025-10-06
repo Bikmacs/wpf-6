@@ -1,0 +1,4 @@
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\App.g.cs
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF_MarkupCompile.cache
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF_MarkupCompile.lref

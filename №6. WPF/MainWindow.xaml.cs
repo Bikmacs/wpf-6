@@ -26,9 +26,6 @@ namespace _6._WPF
 
         }
 
-        private void TextBox_TextChanged()
-        {
-
-        }
+      
     }
 }

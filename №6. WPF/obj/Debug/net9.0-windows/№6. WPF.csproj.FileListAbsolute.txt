@@ -2,3 +2,20 @@ C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\MainWindow.g.
 C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\App.g.cs
 C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF_MarkupCompile.cache
 C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF_MarkupCompile.lref
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\bin\Debug\net9.0-windows\№6. WPF.exe
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\bin\Debug\net9.0-windows\№6. WPF.deps.json
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\bin\Debug\net9.0-windows\№6. WPF.runtimeconfig.json
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\bin\Debug\net9.0-windows\№6. WPF.dll
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\bin\Debug\net9.0-windows\№6. WPF.pdb
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.g.resources
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.AssemblyInfoInputs.cache
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.AssemblyInfo.cs
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.csproj.CoreCompileInputs.cache
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.sourcelink.json
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.dll
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\refint\№6. WPF.dll
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.pdb
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\№6. WPF.genruntimeconfig.cache
+C:\Учеба\C#\TRPO\№6. WPF\№6. WPF\obj\Debug\net9.0-windows\ref\№6. WPF.dll
